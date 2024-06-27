@@ -26,3 +26,15 @@ const findUniq = (arr) => {
 }
 ```
 
+## Job Experience 
+
+Stude now
+
+## Education
+
+2023 -  Belarusian-Russian University  
+2024 - RS School frontend course, stage 0
+
+## Language level
+
+A2 - English
